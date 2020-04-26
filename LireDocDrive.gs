@@ -10,6 +10,8 @@ function LireDoc() {
   var toto = body.getTables() ;
   
   var titi = toto[0] ;
+
+  // lolo win
   
   var tutu = titi.getCell(0, 0).editAsText().getText()  ;
   
