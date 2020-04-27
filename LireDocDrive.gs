@@ -11,6 +11,8 @@ function LireDoc() {
   
   var titi = toto[0] ;
 
+// modif linuix 27/04/2020
+
   // lolo win
   
 
