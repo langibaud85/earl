@@ -13,7 +13,12 @@ function LireDoc() {
 
   // lolo win
   
+
+  // commenbtaire win 27/04/2020
+
   var tutu = titi.getCell(0, 0).editAsText().getText()  ;
   
   Logger.log (tutu) ;
+
+
 }
