@@ -22,5 +22,8 @@ function LireDoc() {
   
   Logger.log (tutu) ;
 
+  // modif du 30/04/2020 ACER MCI  001
+  // modif du 30/04/2020 ACER MCI  002
+
 
 }
