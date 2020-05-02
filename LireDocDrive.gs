@@ -65,6 +65,9 @@ function LireDoc(FileRef ) {
   }
 }
 
+  // modif du 30/04/2020 ACER MCI  001
+  // modif du 30/04/2020 ACER MCI  002
+
 
 function Main() {
   var cstFile = 'RefAchatVivant' ;
